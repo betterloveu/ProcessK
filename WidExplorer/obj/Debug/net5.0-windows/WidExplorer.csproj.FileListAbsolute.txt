@@ -1,0 +1,17 @@
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\bin\Debug\net5.0-windows\WidExplorer.exe
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\bin\Debug\net5.0-windows\WidExplorer.deps.json
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\bin\Debug\net5.0-windows\WidExplorer.runtimeconfig.json
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\bin\Debug\net5.0-windows\WidExplorer.runtimeconfig.dev.json
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\bin\Debug\net5.0-windows\WidExplorer.dll
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\bin\Debug\net5.0-windows\ref\WidExplorer.dll
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\bin\Debug\net5.0-windows\WidExplorer.pdb
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\obj\Debug\net5.0-windows\WidExplorer.Form1.resources
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\obj\Debug\net5.0-windows\WidExplorer.csproj.GenerateResource.cache
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\obj\Debug\net5.0-windows\WidExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\obj\Debug\net5.0-windows\WidExplorer.AssemblyInfoInputs.cache
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\obj\Debug\net5.0-windows\WidExplorer.AssemblyInfo.cs
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\obj\Debug\net5.0-windows\WidExplorer.csproj.CoreCompileInputs.cache
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\obj\Debug\net5.0-windows\WidExplorer.dll
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\obj\Debug\net5.0-windows\ref\WidExplorer.dll
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\obj\Debug\net5.0-windows\WidExplorer.pdb
+C:\Users\d2ils\source\repos\WidExplorer\WidExplorer\obj\Debug\net5.0-windows\WidExplorer.genruntimeconfig.cache
